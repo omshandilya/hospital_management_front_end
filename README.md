@@ -44,8 +44,22 @@ Welcome to the **Hospital Management App**! This is a comprehensive solution for
    - View their medical history.
    - Book appointments.
    - Pay bills easily.
+   - Search doctors according to their need.
+     All these opperations are possible due the api calls fetiching data from the Database created in SpringBoot from scratch by my-self. (link:https://github.com/omshandilya/Hospital-Management-Application-Backend)
 
 ---
+### 5. Doctor Dashboard
+   ![Doctor Page]
+    -A comprehensive dashboard where doctors can:
+    - Cancel patients appointment.
+    - View there Schedule.
+    - Make chnages in their schedule.
+---
+### 6. Admin Page 
+   ![Admin Page]
+   -Admin can manages the app.
+   -Admin can make changes in the dashboard of both patient and doctor.
+   -Admin can chnage the ID,Password if the patient forgets.
 
 ## 🛠️ Technologies Used
 
